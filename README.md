@@ -25,19 +25,25 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="428" height="733" alt="image" src="https://github.com/user-attachments/assets/c9331f8c-266e-49b5-85d1-d244335730fc" />
 
 
 
 **Model graph:**
 
 
+<img width="532" height="771" alt="image" src="https://github.com/user-attachments/assets/386b9a75-99f3-4a17-a5da-c9104f593ec1" />
 
 
 **TABULATION:**
 
 
+<img width="1280" height="493" alt="WhatsApp Image 2026-05-31 at 6 40 02 PM" src="https://github.com/user-attachments/assets/21144c43-09e5-40bd-ae08-13c2a024d5ab" />
+
+
 **Calculation:**
 
+<img width="737" height="779" alt="image" src="https://github.com/user-attachments/assets/8ff37957-ddb6-4a88-b983-81f4b11dbb0b" />
 
 
 
@@ -52,7 +58,6 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
 
 **RESULT:**
 
